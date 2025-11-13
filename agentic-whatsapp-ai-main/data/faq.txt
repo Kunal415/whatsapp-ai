@@ -1,0 +1,17 @@
+=== Shipping Information ===
+We offer two shipping options for all domestic orders. Standard shipping costs $5.99 and typically takes 3-5 business days. Express shipping costs $15.99 and takes 1-2 business days. Orders over $75 qualify for free standard shipping. At this time, we do not ship internationally. You will receive a tracking number via email as soon as your order is shipped.
+
+=== Return & Refund Policy ===
+We have a 30-day return policy. You can return any unopened and unused item within 30 days of the delivery date for a full refund. To start a return, please provide your order ID. Once we receive and inspect the returned item, your refund will be processed to your original payment method within 5-7 business days. Please note that return shipping costs are the responsibility of the customer unless the item was damaged or incorrect.
+
+=== Order Cancellation ===
+You can cancel your order as long as its status is 'Pending' or 'Processing'. Unfortunately, once an order has been 'Shipped', it can no longer be cancelled. To cancel an order, please provide your order ID, and we will process the cancellation and issue a full refund immediately.
+
+=== Payment Methods ===
+We accept all major credit cards (Visa, MasterCard, American Express) as well as PayPal. All transactions are secure and encrypted.
+
+=== Product Availability ===
+Our website and WhatsApp bot reflect our most current stock levels. If an item is listed as 'Out of Stock', we are currently unable to take orders for it. We do not have a pre-order system at this time, but please check back soon as we restock popular items regularly.
+
+=== Contacting Support ===
+If you have an issue that cannot be resolved here, you can ask to 'speak with a human agent', and we will create a support ticket for you. Our support team is available from 9 AM to 5 PM EST, Monday to Friday.
